@@ -1,0 +1,10 @@
+{
+    "development":{
+        "username":"desarrollo",
+        "password":"desarollo",
+        "database": "dbauto",
+        "host":"mysql.auto.local",
+        "dialect":"mysql",
+        "operatorAliases":false
+    }
+}
